@@ -30,7 +30,6 @@ footer{
 .enlace{
     background-position: center;
     background-size: cover;
-    filter: grayscale(100%);
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -62,11 +61,11 @@ footer{
 }
 
 .enlaceGuantes{
-    background-image: url(../assets/guantes.jpg);
+    background-image: url(../assets/enlace3.jpg);
 }
 
 .enlaceIndumentaria{
-    background-image: url(../assets/indumentaria.jpg);
+    background-image: url(../assets/enlace2.jpg);
 }
 
 .enlaceAccesorios{

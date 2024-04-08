@@ -33,6 +33,9 @@ table thead tr th{
 table tr:nth-child(odd){
     background-color: #ebe9de;
 }
+table tr:nth-child(even){
+    background-color: white;
+}
 
 .nombreEquipo{
     text-align: left;
